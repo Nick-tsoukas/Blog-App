@@ -1,5 +1,5 @@
 .blog_image {
-  max-height: 300px;
+  max-height: 200px;
 }
 
 i.icon {
@@ -8,4 +8,8 @@ i.icon {
 
 .container.main {
   margin-top:7em;
+}
+
+#delete {
+  display: inline;
 }
